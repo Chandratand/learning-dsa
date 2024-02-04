@@ -105,6 +105,6 @@ myLinkedList.printList();
 myLinkedList.remove(2);
 myLinkedList.reverse();
 
-console.log(myLinkedList);
+// console.log(myLinkedList);
 const list = myLinkedList.printList();
-console.log(list);
+// console.log(list);
