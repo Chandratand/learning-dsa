@@ -24,5 +24,3 @@ function merge(left, right) {
 
 const answer = mergeSort(numbers);
 console.log(answer);
-
-// console.log([1, 2, 3, 4].splice(2, 4));
